@@ -23,5 +23,5 @@ This is my favorite restaurant as it contains my favorite dishes like Chicken 65
 * Ring Road
 * Food bazar
 
-![AboutAshwitha](Ashwitha.JPG)
+![AboutAshwitha](MyMedia.md)
 
