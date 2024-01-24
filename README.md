@@ -35,6 +35,22 @@ Table of 4 songs that i would recommend to listen.
 |Perfect           |   Meaning  |       Zayn               |
 |We dont talk anymore|MUSIC     |       Charlie            |
 |One call away      |    Tone   |       Charlie            |
+   
+_ _ _
+# Inspirational Quotes
+>"Your sucess wii be determined by your own confidence and fortitude." *-Michelle Obama*
+>"Be faithful to that which exists within yourself." *-Andre gide*
+_ _ _
+# Code Fancing 
+[The OR command in SQL displays a record if any of the conditions separated by OR is TRUE.](https://code.pieces.app/collections/sql)
+
+```
+SELECT column1, column2, ...
+FROM table_name
+WHERE condition1 OR condition2 OR condition3 ...;
+
+```
+[Back Up Your WordPress Database](https://css-tricks.com/back-wordpress-database/)
 
 
 
