@@ -24,15 +24,17 @@ This is my favorite restaurant as it contains my favorite dishes like Chicken 65
 * Food bazar
 
 ![AboutAshwitha](MyMedia.md)
+
 ---
 # Creating table
 Table of 4 songs that i would recommend to listen.
+
 | Name of the song | Recommend  |Name of the person created|
-|    _ _ _         |   _ _ _    |        _ _ _             |
-|Beauty and BEAT   |   Lyrics   |       Justin             |
+| _ _ _ |_ _ _ |_ _ _ |
+|Beauty and BEAT|Lyrics| Justin |
 |Perfect           |   Meaning  |       Zayn               |
 |We dont talk anymore|MUSIC     |       Charlie            |
 |One call away      |    Tone   |       Charlie            |
-_ _ _
+
 
 
